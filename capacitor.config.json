@@ -1,0 +1,6 @@
+{
+  "appId": "com.vcard.app",
+  "appName": "V-Card",
+  "webDir": "web",
+  "bundledWebRuntime": false
+}
